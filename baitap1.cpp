@@ -1,3 +1,4 @@
+// Nguyễn Thái Sơn MSV A31174 Bài 1 cách của Thầy Thắng
 #include <iostream>	
 #include <math.h>
 using namespace std;

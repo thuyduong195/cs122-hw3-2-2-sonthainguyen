@@ -41,7 +41,7 @@ class HinhCN: public Hinh
 		{
 			return this->CD*this->CR;
 		}
-		float getPerimeter() const
+		float getCV() const
 		{
 			return (this->CD+this->CR)*2;
 		}

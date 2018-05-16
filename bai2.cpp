@@ -51,7 +51,7 @@ class NhanVien: public NhanSu
 };
 int main()
 {
-	HSL a;
+	NhanVien a;
 	a.setLuongCB(100)
 	a.setHSL(2)
 	cout<<a.TinhLuong()<<endl;
